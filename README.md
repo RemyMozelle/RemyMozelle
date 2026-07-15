@@ -4,9 +4,9 @@
 
 ## 👨‍💻 À propos
 
-Développeur back-end PHP / Symfony basé à La Réunion, avec **8 ans d’expérience**, dont **5 années en full remote** au sein d’équipes basées en métropole chez **Ecedi du groupe Ctrl A** et **Simplon Prod**.
+Développeur back-end PHP / Symfony basé à La Réunion, avec **8 ans d’expérience**, dont **5 années en full remote** au sein d’équipes basées en métropole chez [Ecedi](https://www.linkedin.com/company/ecedi/) du groupe [Ctrl-a](https://www.linkedin.com/company/ctrl%C2%B7a/)** et [Simplon Prod](https://www.simplon.co/).
 
-📍 Localisation : Full remote (France métropolitaine, Océan Indien DOM-TOM)
+📍 Localisation : Réunion, France - Full remote (France métropolitaine, Océan Indien DOM-TOM)
 
 ## 💻 Stack Technique
 
@@ -68,13 +68,11 @@ Développeur back-end PHP / Symfony basé à La Réunion, avec **8 ans d’expé
 
 - Service public
 - Associatif
-- Handicap (Certifié Opquast, Avancé)
+- Handicap ([Certifié Opquast, Avancé](https://directory.opquast.com/fr/certificat/1YSWMP/))
 
 ## 📚 En savoir plus
-
-Retour sur mon parcours en 2020 :
-
-🔗 https://www.linkedin.com/pulse/r%25C3%25A9my-le-ph%25C3%25A9nix-de-simplonprod-tom-lann/
+🔗 [LinkedIn]([https://www.linkedin.com/...](https://www.linkedin.com/in/remy-mozelle/))
+🔗 [ITW sur mon parcours en 2020](https://www.linkedin.com/pulse/r%25C3%25A9my-le-ph%25C3%25A9nix-de-simplonprod-tom-lann/)
 <!--
 **RemyMozelle/RemyMozelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
