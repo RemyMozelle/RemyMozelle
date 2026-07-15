@@ -23,8 +23,6 @@ MySQL
 ### Environnements
 Linux, Docker (via DDEV), Notions de conteneurisation
 
-### Versioning & Collaboration
-Git, GitHub, GitLab
 
 ## 🌐 Compétences métier
 
@@ -57,6 +55,7 @@ Git, GitHub, GitLab
 
 ## 📚 En savoir plus
 🔗 [LinkedIn](https://www.linkedin.com/in/remy-mozelle/)
+
 🔗 [ITW sur mon parcours en 2020](https://www.linkedin.com/pulse/r%25C3%25A9my-le-ph%25C3%25A9nix-de-simplonprod-tom-lann/)
 <!--
 **RemyMozelle/RemyMozelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
